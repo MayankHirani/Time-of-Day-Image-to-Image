@@ -1,2 +1,5 @@
 # Time-of-Day-Image-to-Image
-Image to image model for changing the time of day 2025
+
+**by Mayank Hirani and Nikitha Sundaram**
+
+[![Project Preview](project_report.png)](project_report.pdf)
